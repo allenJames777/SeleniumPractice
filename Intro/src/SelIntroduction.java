@@ -34,6 +34,7 @@ public class SelIntroduction {
         .sendKeys(textField, "Hello Selenium!")
         .perform();
         
+        //understanding Css Selector
         
     }
 }
