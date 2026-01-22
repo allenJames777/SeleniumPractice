@@ -33,6 +33,9 @@ public class FuckArrayList {
 				String [] names = {"miska" , "muska", "mouse"}; //Normal Array
 				List <String> nameArrayList = Arrays.asList(names); //converted to arrayList
 				System.out.println(nameArrayList);
+				
+				understandingMethods2 grabber = new understandingMethods2();
+				System.out.println(grabber.getStringData());
 
 	}
 
